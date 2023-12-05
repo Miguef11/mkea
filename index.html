@@ -634,8 +634,8 @@
                 </div>
             </div>
             
-            </div>
-            <button id="parriba" class="btn btn-elevator">SUBIR</button>
+            </div class="posi" >
+            <button id="parriba" class="btn-el btn-elevator"></button>
         </div>
     </div>
 </div>
@@ -655,7 +655,9 @@
 <script>
   window.onload = function parriba() {
   var elevador = new Elevator({
-    element: document.querySelector("#parriba")
+    element: document.querySelector("#parriba"),
+    duration:1000,
+    speed: 10000
   });
 };
 </script>
