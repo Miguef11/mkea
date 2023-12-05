@@ -1,0 +1,102 @@
+.bg-nav{
+    background-color: #3a415e ;
+
+}
+.bg-menu{
+    background-color: #89a7b1;
+  
+}
+.mt-6{
+    margin-top: 6rem;
+}
+.titulo {
+    text-align: center;
+    font-size: 3rem; 
+    color: #3a415a; 
+    font-family:fantasy;
+ 
+  }
+.bg-izq{
+    background-color: #3a415a;
+}
+.font{
+    font-family: 'Times New Roman', Times, serif;
+}
+.img-s{
+height: 200px;
+}
+.img-c{
+    height: 500px;
+}
+.bg-bod{
+    background-color: #566981;
+}
+.bg-he{
+    background-color: #566981;
+    color: #cbdad5;
+}
+.desc{
+    color: red;
+    text-decoration: line-through;
+}
+.card-body{
+    background-color: #89a7b1;
+    color: #3a415a;
+  
+}
+.card-contact{
+    background-color: #89a7b1;
+    color: #3a415a;
+}
+.card:hover{
+    background-color: #212529;
+    
+}
+.btn-dark{
+    font-size: small;
+        --bs-btn-color: #cbdad5;
+        --bs-btn-bg: #34344e;
+        --bs-btn-border-color: #34344e;
+        --bs-btn-hover-color:#34344e ;
+        --bs-btn-hover-bg: #566981;
+        --bs-btn-hover-border-color: #c1b398;
+        --bs-btn-focus-shadow-rgb: 66,70,73;
+        --bs-btn-active-color: #fff;
+        --bs-btn-active-bg: #4d5154;
+        --bs-btn-active-border-color: #373b3e;
+        --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+        --bs-btn-disabled-color: #fff;
+        --bs-btn-disabled-bg: #212529;
+        --bs-btn-disabled-border-color: #212529;
+    }
+    .btn-elevator{
+        --bs-btn-color: #cbdad5;
+        --bs-btn-bg: #34344e;
+        border-radius: 0;
+        --bs-btn-border-color: #34344e;
+        --bs-btn-hover-color:#34344e ;
+        --bs-btn-hover-bg: #566981;
+        --bs-btn-hover-border-color: #c1b398;
+        --bs-btn-focus-shadow-rgb: 66,70,73;
+        --bs-btn-active-color: #fff;
+        --bs-btn-active-bg: #4d5154;
+        --bs-btn-active-border-color: #373b3e;
+        --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+        --bs-btn-disabled-color: #fff;
+        --bs-btn-disabled-bg: #212529;
+        --bs-btn-disabled-border-color: #212529;
+    }
+    .bg-con{
+        background-color: #cbdad5;
+    }
+    
+    .pie{
+        text-align: center;
+       
+        color: whitesmoke;
+        margin-bottom: 0;
+    }
+    .bg-pie{
+        background: linear-gradient(to bottom, #005f6b, #008c9e, #008c9e);
+    }
+   
